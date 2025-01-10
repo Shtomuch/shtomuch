@@ -28,20 +28,27 @@ src="https://img.shields.io/github/followers/Shtomuch?logo=github&style=for-the-
 
 ### My GitHub Stats
 
-<div style="display: flex; gap: 10px; justify-content: center;">
-
-  <a href="http://www.github.com/Shtomuch">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=Shtomuch&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" 
-      alt="Shtomuch's GitHub stats" 
-    />
-  </a>
-
-  <a href="http://www.github.com/Shtomuch">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Shtomuch&theme=tokyonight&hide_border=true" 
-      alt="Shtomuch's GitHub streak stats" 
-    />
-  </a>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.github.com/Shtomuch">
+        <img 
+          src="https://github-readme-stats.vercel.app/api?username=Shtomuch&show_icons=true&count_private=true&theme=light&hide_border=true" 
+          alt="Shtomuch's GitHub stats" 
+          width="300" 
+          height="180"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.github.com/Shtomuch">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shtomuch&size_weight=0.5&count_weight=0.5&langs_count=8&theme=light&hide_border=true&hide=javascript,html" 
+          alt="Shtomuch's Top Languages" 
+          width="300" 
+          height="180"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
