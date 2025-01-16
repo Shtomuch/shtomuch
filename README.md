@@ -1,6 +1,6 @@
 <!-- Vibrant animated banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=FACC17&center=true&vCenter=true&lines=Python+Web+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=32CD32&center=true&vCenter=true&lines=Python+Web+Developer" alt="Typing SVG" />
 </p>
 
 <!-- Colorful contact badges -->
