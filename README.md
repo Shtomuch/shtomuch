@@ -19,14 +19,6 @@
   </a>
 </p>
 
----
-
-## ✨ About Me
-- Student from Kyiv aiming to become a **Software Architect**  
-- Passionate about Python and web development  
-- Experimenting with Docker, FastAPI, Django, and more  
-
----
 
 ## ⚙️ Skills
 <div align="center">
