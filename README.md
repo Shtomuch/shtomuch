@@ -1,7 +1,4 @@
-<!-- Vibrant animated banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&color=32CD32&center=true&vCenter=true&lines=Python+Web+Developer" alt="Typing SVG" />
-</p>
+![Image](https://github.com/user-attachments/assets/cfcfcc24-0919-4d74-ae7a-5dce8b0f4446)
 
 <!-- Colorful contact badges -->
 <p align="center">
